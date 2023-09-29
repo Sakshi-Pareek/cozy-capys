@@ -145,6 +145,9 @@
   top: 0;
   width: 110px;
 }
+.nav_bg{
+  z-index: 1;
+}
 
 /* ---------------------------about_us---------------------- */
 .mt_7_neg {
@@ -186,6 +189,9 @@
 }
 .margin_bottom_100{
   margin-bottom: 100px;
+}
+.z_index_5{
+  z-index: 5 !important;
 }
 /* ---------------------impact------------------ */
 .bg_skyblue {
